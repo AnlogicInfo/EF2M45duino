@@ -50,57 +50,30 @@ Package Info.
 |256 fpBGA (17x17, 1.0mm pitch) |207(31+64)|207(31+64)|207(31+64)|          |
 	Notes:207(31+64) means the number of IO users can use (Ture LVDS +Emulated LVDS).
 
-BSP and Project
+EF2M45duino
 ======================
-Demo Folder 
+ArduinoDemo Folder 
 ----------------------
-* [ADC_Demo	    ](#ADC_Demo	    )
-* [AHB_Demo	    ](#AHB_Demo	    )
-* [BRAM_Demo	](#BRAM_Demo	)
-* [CLOCK_Demo	](#CLOCK_Demo	)
-* [DMA_Demo	    ](#DMA_Demo	    )
-* [EXTI_Demo	](#EXTI_Demo	)
-* [FLASH_Demo	](#FLASH_Demo	)
-* [GPIO_Demo	](#GPIO_Demo	)
-* [I2C_Demo	    ](#I2C_Demo	    )
-* [I2S_Demo	    ](#I2S_Demo	    )
-* [RESET_Demo	](#RESET_Demo	)
-* [RTC_Demo	    ](#RTC_Demo	    )
-* [SPIM_Demo	](#SPIM_Demo	)
-* [TIMER_Demo	](#TIMER_Demo	)
-* [UART_Demo	](#UART_Demo	)
-* [USR_REG_Demo ](#USR_REG_Demo )
-* [WDT_Demo     ](#WDT_Demo     )
+* [Blink_led]  (#Blink_led	    )
+* [FPGAProject](#FPGAProject    )
+ 
 
-Document Folder 
+MapleLibirary Folder 
 ----------------------         
-* [Anlogic ELF2 SDK.chm		               ](#)
-* [Anlogic SOC介绍及其应用.pdf		       ](#)
-* [EF2M45_SCH.pdf		                   ](#)
-* [SUG401_ELF2系列SOC入门手册_V1.2.pdf	   ](#)
-* [SUG402_ELF2系列SOC外设实验指导_V1.1.pdf ](#)
+* [STM32F1](#)
+* [drivers](#)
+* [tools](#)
+                                                                                             
 
-ELF2_BSP Folder 
-----------------------
-* [CMSIS/Core/Include  ](#)
-* [Debug		       ](#)
-* [Device/ELF2		   ](#)
-* [Driver		       ](#)
-* [FatFs		       ](#)
-* [FatFs11a		       ](#)
-* [FreeRTOSv9.0.0	   ](#)
-* [platform.h          ](#)
-
-FreeRTOS_Demo
-----------------------  
-* [HelloDemo          ](#)
+EF2M45_Arduino Dev Step.docx
+---------------------- 
 
 Developerment Enviroment
 ======================
 * [Hardware: TD                ](#)
-* [Software: Keil              ](#)
+* [Software: Arduino IDE       ](#)
 * [Debug Tool: JTAG and J-Link ](#)
-* [Demo Platform               ](#)
+* [EF2M45duino Demo Platform   ](#)
 ![Anlogic](https://github.com/AnlogicInfo/EF2M45duino/blob/master/EF2M45duinoBoard.jpg)<br>
 
 Contact Us 
