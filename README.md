@@ -73,7 +73,7 @@ Developerment Enviroment
 * [Hardware: TD                ](#)
 * [Software: Arduino IDE       ](#)
 * [Debug Tool: JTAG and J-Link ](#)
-* [EF2M45duino Demo Platform   ](#)
+* [EF2M45duino Demo Board   ](#)
 ![Anlogic](https://github.com/AnlogicInfo/EF2M45duino/blob/master/EF2M45duinoBoard.jpg)<br>
 
 Contact Us 
